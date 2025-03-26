@@ -17,22 +17,6 @@ This project is an AI-powered Age and Gender Recognition system using deep learn
 - NumPy
 - Matplotlib
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Age-and-Gender-Recognition.git
-   cd Age-and-Gender-Recognition
-   ```
-2. Create a virtual environment (optional but recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 1. Open Jupyter Notebook:
    ```bash
@@ -46,15 +30,14 @@ This model is trained on the [UTKFace dataset](https://susanqq.github.io/UTKFace
 
 ## Results
 - Achieves high accuracy in age and gender classification.
+- Gives comparitively low accuracy in dim lights.
 - Works well on diverse datasets but may have limitations in extreme lighting or occlusions.
 
 ## Future Improvements
 - Enhance model accuracy with larger datasets.
 - Improve real-time processing speed.
+- Add more features like mood recognition and face recognition.
 - Deploy as a web application.
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
