@@ -27,6 +27,7 @@ This project is an AI-powered Age and Gender Recognition system using deep learn
 
 ## Dataset
 This model is trained on the [UTKFace dataset](https://susanqq.github.io/UTKFace/) or a similar dataset containing labeled age and gender information.
+To download the models, click on this [Link](https://drive.google.com/drive/folders/1IXqK-76PuXViyj-FeZjbMXSkYKMWT3pr).
 
 ## Results
 - Achieves high accuracy in age and gender classification.
